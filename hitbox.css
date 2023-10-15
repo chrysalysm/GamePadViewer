@@ -44,7 +44,7 @@
 }
 
 .custom .dpad .face {
-    background-image: url('https://github.com/chrysalysm/GamePadViewer/blob/master/images/dpad.png');
+    background-image: url('https://raw.githubusercontent.com/chrysalysm/GamePadViewer/master/images/dpad.png');
     background-position-x: -1px;
     background-position-y: -1px;
 }
@@ -87,7 +87,7 @@
 }
 
 .custom .abxy .button {
-    background-image: url('https://github.com/AlexanderSkrock/GamePadViewer/blob/master/images/abxy.svg');
+    background-image: url('https://raw.githubusercontent.com/chrysalysm/GamePadViewer/master/images/abxy.svg');
     background-position-y: -1px;
 }
 
